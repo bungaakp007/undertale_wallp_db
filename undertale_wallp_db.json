@@ -1,0 +1,198 @@
+{
+   "packagename": "com.zayviusdigital.wallpaper_json",
+   "bung_aakp007": [
+      {
+		"id" : "1",
+		"link_images" : "file:///android_asset/gambar/gambar1.jpg"
+	  }, {
+		"id" : "2",
+		"link_images" : "file:///android_asset/gambar/gambar2.jpg"
+	  },{
+		"id" : "3",
+		"link_images" : "file:///android_asset/gambar/gambar3.jpg"
+	  }, {
+		"id" : "4",
+		"link_images" : "file:///android_asset/gambar/gambar4.jpg"
+	  },{
+		"id" : "5",
+		"link_images" : "file:///android_asset/gambar/gambar5.jpg"
+	  }, {
+		"id" : "6",
+		"link_images" : "file:///android_asset/gambar/gambar6.jpg"
+	  },{
+		"id" : "7",
+		"link_images" : "file:///android_asset/gambar/gambar7.jpg"
+	  }, {
+		"id" : "8",
+		"link_images" : "file:///android_asset/gambar/gambar8.jpg"
+	  },{
+		"id" : "9",
+		"link_images" : "file:///android_asset/gambar/gambar9.jpg"
+	  }, {
+		"id" : "10",
+		"link_images" : "file:///android_asset/gambar/gambar10.jpg"
+	  },{
+		"id" : "11",
+		"link_images" : "file:///android_asset/gambar/gambar11.jpg"
+	  }, {
+		"id" : "12",
+		"link_images" : "file:///android_asset/gambar/gambar12.jpg"
+	  },{
+		"id" : "13",
+		"link_images" : "file:///android_asset/gambar/gambar13.jpg"
+	  }, {
+		"id" : "14",
+		"link_images" : "file:///android_asset/gambar/gambar14.jpg"
+	  },{
+		"id" : "15",
+		"link_images" : "file:///android_asset/gambar/gambar15.jpg"
+	  }, {
+		"id" : "16",
+		"link_images" : "file:///android_asset/gambar/gambar16.jpg"
+	  },{
+		"id" : "17",
+		"link_images" : "file:///android_asset/gambar/gambar17.jpg"
+	  }, {
+		"id" : "18",
+		"link_images" : "file:///android_asset/gambar/gambar18.jpg"
+	  },{
+		"id" : "19",
+		"link_images" : "file:///android_asset/gambar/gambar19.jpg"
+	  }, {
+		"id" : "20",
+		"link_images" : "file:///android_asset/gambar/gambar20.jpg"
+	  },{
+		"id" : "21",
+		"link_images" : "file:///android_asset/gambar/gambar21.jpg"
+	  }, {
+		"id" : "22",
+		"link_images" : "file:///android_asset/gambar/gambar22.jpg"
+	  },{
+		"id" : "23",
+		"link_images" : "file:///android_asset/gambar/gambar23.jpg"
+	  },{
+		"id" : "24",
+		"link_images" : "file:///android_asset/gambar/gambar24.jpg"
+	  }, {
+		"id" : "25",
+		"link_images" : "file:///android_asset/gambar/gambar25.jpg"
+	  },{
+		"id" : "26",
+		"link_images" : "file:///android_asset/gambar/gambar26.jpg"
+	  }, {
+		"id" : "27",
+		"link_images" : "file:///android_asset/gambar/gambar27.jpg"
+	  },{
+		"id" : "28",
+		"link_images" : "file:///android_asset/gambar/gambar28.jpg"
+	  }, {
+		"id" : "29",
+		"link_images" : "file:///android_asset/gambar/gambar29.jpg"
+	  },{
+		"id" : "30",
+		"link_images" : "file:///android_asset/gambar/gambar30.jpg"
+	  }, {
+		"id" : "31",
+		"link_images" : "file:///android_asset/gambar/gambar31.jpg"
+	  },{
+		"id" : "32",
+		"link_images" : "file:///android_asset/gambar/gambar32.jpg"
+	  }, {
+		"id" : "33",
+		"link_images" : "file:///android_asset/gambar/gambar33.jpg"
+	  },{
+		"id" : "34",
+		"link_images" : "file:///android_asset/gambar/gambar34.jpg"
+	  }, {
+		"id" : "35",
+		"link_images" : "file:///android_asset/gambar/gambar35.jpg"
+	  },{
+		"id" : "36",
+		"link_images" : "file:///android_asset/gambar/gambar36.jpg"
+	  }, {
+		"id" : "37",
+		"link_images" : "file:///android_asset/gambar/gambar37.jpg"
+	  },{
+		"id" : "38",
+		"link_images" : "file:///android_asset/gambar/gambar38.jpg"
+	  }, {
+		"id" : "39",
+		"link_images" : "file:///android_asset/gambar/gambar39.jpg"
+	  },{
+		"id" : "40",
+		"link_images" : "file:///android_asset/gambar/gambar40.jpg"
+	  }, {
+		"id" : "41",
+		"link_images" : "file:///android_asset/gambar/gambar41.jpg"
+	  },{
+		"id" : "42",
+		"link_images" : "file:///android_asset/gambar/gambar42.jpg"
+	  }, {
+		"id" : "43",
+		"link_images" : "file:///android_asset/gambar/gambar43.jpg"
+	  },{
+		"id" : "44",
+		"link_images" : "file:///android_asset/gambar/gambar44.jpg"
+	  }, {
+		"id" : "45",
+		"link_images" : "file:///android_asset/gambar/gambar45.jpg"
+	  },{
+		"id" : "46",
+		"link_images" : "file:///android_asset/gambar/gambar46.jpg"
+	  }, {
+		"id" : "47",
+		"link_images" : "file:///android_asset/gambar/gambar47.jpg"
+	  },{
+		"id" : "48",
+		"link_images" : "file:///android_asset/gambar/gambar48.jpg"
+	  }, {
+		"id" : "49",
+		"link_images" : "file:///android_asset/gambar/gambar49.jpg"
+	  },{
+		"id" : "50",
+		"link_images" : "file:///android_asset/gambar/gambar50.jpg"
+	  }, {
+		"id" : "51",
+		"link_images" : "file:///android_asset/gambar/gambar51.jpg"
+	  },{
+		"id" : "52",
+		"link_images" : "file:///android_asset/gambar/gambar52.jpg"
+	  }, {
+		"id" : "53",
+		"link_images" : "file:///android_asset/gambar/gambar53.jpg"
+	  },{
+		"id" : "54",
+		"link_images" : "file:///android_asset/gambar/gambar54.jpg"
+	  }, {
+		"id" : "55",
+		"link_images" : "file:///android_asset/gambar/gambar55.jpg"
+	  },{
+		"id" : "56",
+		"link_images" : "file:///android_asset/gambar/gambar56.jpg"
+	  }, {
+		"id" : "57",
+		"link_images" : "file:///android_asset/gambar/gambar57.jpg"
+	  },{
+		"id" : "58",
+		"link_images" : "file:///android_asset/gambar/gambar58.jpg"
+	  }, {
+		"id" : "59",
+		"link_images" : "file:///android_asset/gambar/gambar59.jpg"
+	  },{
+		"id" : "60",
+		"link_images" : "file:///android_asset/gambar/gambar60.jpg"
+	  },{
+		"id" : "61",
+		"link_images" : "file:///android_asset/gambar/gambar61.jpg"
+	  },{
+		"id" : "62",
+		"link_images" : "file:///android_asset/gambar/gambar62.jpg"
+	  },{
+		"id" : "63",
+		"link_images" : "file:///android_asset/gambar/gambar63.jpg"
+	  },{
+		"id" : "60=4",
+		"link_images" : "file:///android_asset/gambar/gambar64.jpg"
+	  }
+   ]
+}
